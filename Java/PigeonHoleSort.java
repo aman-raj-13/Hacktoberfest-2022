@@ -36,6 +36,7 @@ public class PigeonHoleSort
  
     public static void main(String[] args)
     {
+     
         PigeonHoleSort sort = new PigeonHoleSort();
         int[] arr = {8, 3, 2, 7, 4, 6, 8};
         System.out.print("Sorted order is : ");
