@@ -8,8 +8,6 @@
 function count(S , m , n )
 {
  
-    // If n is 0 then there is 1 solution
-    // (do not include any coin)
     if (n == 0)
         return 1;
      
